@@ -1,4 +1,6 @@
+=========================
 PRODUCER-CONSUMER PROBLEM - OPERATING SYSTEMS ASSIGNMENT
+=========================
 
 Description:
 This program solves the Producer-Consumer (Bounded Buffer) 
