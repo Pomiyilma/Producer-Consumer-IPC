@@ -1,0 +1,7 @@
+# Executable files
+prodcons
+a.out
+# Object files
+*.o
+# Temporary files
+*.tmp
